@@ -23,7 +23,7 @@ This project focuses on analyzing global video game sales by creating 5-year bin
 
 ## How to Use
 1. **Open Tableau Workbook**: Use the provided Tableau workbook file to explore the visualizations.
-2. **Examine Year Bins**: The workbook includes a `Year (Bin)` field used in the columns for categorizing data.
+2. **Examine Year Bins**: The workbook includes a `Year (!bin)` field used in the columns for categorizing data.
 3. **View Custom Calculations**: The workbook features calculated fields such as `Percent of Total Global Sales` and `Global Sales - EU Sales` to visualize key insights.
 
 ## Visualizations Included
