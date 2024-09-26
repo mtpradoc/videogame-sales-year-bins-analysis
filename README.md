@@ -40,8 +40,6 @@ This project focuses on analyzing global video game sales by creating 5-year bin
 </a>
 
 
-**Tableau Public Link**: [Visualization]()
-
 ## Future Improvements
 - Adding further regional comparisons (e.g., North America vs. EU vs. Global).
 - Expanding the analysis to newer data (post-2015) and deeper insights into platform-specific sales.
