@@ -35,7 +35,7 @@ This project focuses on analyzing global video game sales by creating 5-year bin
 
 - **Global Sales vs. EU Sales**: Comparing global sales with EU sales by year bins for a clearer understanding of the differences.
 
-<a href="https://public.tableau.com/views/GlobalSalesvsEUSales/GlobalSalesvs_EUSales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
+<a href="https://public.tableau.com/views/GlobalSalesvsEUSales/GlobalSalesvs_EUSales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
       <img src="https://github.com/user-attachments/assets/633d1384-47b6-47af-b6e2-e86317ea0ca3" />
 </a>
 
