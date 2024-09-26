@@ -30,6 +30,7 @@ This project focuses on analyzing global video game sales by creating 5-year bin
 - **Year Bins and Global Sales**: Displaying global sales as a percentage of total sales across 5-year intervals.
 
 <a href="https://public.tableau.com/app/profile/marlenecodes/viz/GlobalSalesvsEUSales/GlobalSalesvs_EUSales?publish=yes">
+</a>
 
 ![vg_bins](https://github.com/user-attachments/assets/9249417e-4115-4721-9d15-71ef9e6215eb)
 
